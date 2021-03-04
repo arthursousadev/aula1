@@ -1,0 +1,8 @@
+Tarefa Aula 1
+
+- Colocar texto explicando o personagem CR7
+- Colocar cor no Título e no texto da página
+
+Extra:
+- Adicionar cor para o fundo da página
+* Dica de pesquisa: cor de fundo do body
